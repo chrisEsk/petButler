@@ -24,4 +24,8 @@ y [Maven](http://maven.apache.org/download.cgi/)
 
 ## Estándares
 
-Para conocer nuestros estándares de programación en Java, visite nuestra [wiki](https://github.com/softstewCenfo/petButler/wiki/Est%C3%A1ndares-de-Programaci%C3%B3n-Java) con todas las especificaciones.
+Para conocer nuestros estándares de programación, visite nuestra wiki con todas las especificaciones.
+
+[Javadoc](https://github.com/softstewCenfo/petButler/wiki/Est%C3%A1ndares-Javadoc)
+[HTML](https://github.com/softstewCenfo/petButler/wiki/Est%C3%A1ndares-HTML)
+[Git](https://github.com/softstewCenfo/petButler/wiki/Est%C3%A1ndares-para-Git)
