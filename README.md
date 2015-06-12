@@ -10,6 +10,16 @@ Source:   | https://github.com/softstewCenfo/petButler |
 # ¿Qué es PetButler?
 PetButler es una aplicación que busca poder ayudar a todos aquellas personas que tiene mascotas, y ocupan poder calendarizar sus cuidados y buscar veterinarios, entre más cosas.
 
+
+# ¿Qué se está utilizando para la elaboración del proyecto?
+
+  * [Travis](https://travis-ci.org/): Utilizada para la integración continua de las pruebas unitarias.
+  * [Apache Tomcat 7](https://tomcat.apache.org/download-70.cgi): Utilizada para realizar los deploy de las aplicaciones web
+  * [Jenkins](https://jenkins-ci.org/): Utilizada para la integración continua del código y creación de los deploy automatizado.
+  * [Nexus](http://www.sonatype.org/nexus/): Utilizado para la gestión de dependencias propias en maven.
+  * [MySql](https://www.mysql.com/): Utilizado como motor de base de datos con la que trabaja PetButler
+  * [New Relic](http://newrelic.com/): Utilizado para realizar el análisis de la aplicación.
+
 # ¿Cómo iniciar?
 
 ```bash
