@@ -1,0 +1,14 @@
+language: java
+
+jdk:
+  - oraclejdk7
+
+after_success:
+  - mvn clean cobertura:cobertura coveralls:report
+
+notifications:
+  email:
+    - jonathanjm100@gmail.com
+    - ceskiv@gmail.com
+    - marix.1508@gmail.com
+    - williamzv@gmail.com
