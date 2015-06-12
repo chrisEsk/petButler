@@ -22,6 +22,18 @@ $ git clone https://github.com/softstewCenfo/petButler.git
 [JDK 8 update 20 or later](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 y [Maven](http://maven.apache.org/download.cgi/)
 
+## Jenkins Server 
+
+https://jenkins-softstew.rhcloud.com/
+
+## Sonatype Nexus Repository
+
+http://sonatype-softstew.rhcloud.com/#welcome
+
+## Tomcat Server
+
+http://petbutler-softstew.rhcloud.com/
+
 ## Estándares
 
 Para conocer nuestros estándares de programación, visite nuestra wiki con todas las especificaciones.
