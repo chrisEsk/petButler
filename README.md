@@ -1,6 +1,8 @@
 # petButler_Pr3
 Proyecto 3. Sistema de SoftStew. 
 
+[![Build Status](https://travis-ci.org/softstewCenfo/petButler.svg)](https://travis-ci.org/softstewCenfo/petButler)
+
 Version:  | 1.0.0                                      |
 :---------| :----------------------------------------- |
 Web:      | http://petbutler-softstew.rhcloud.com/     | 
